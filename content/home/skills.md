@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "laptop"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Stata"
   description = "70%"
   
