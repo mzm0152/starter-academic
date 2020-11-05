@@ -33,6 +33,6 @@
  [[main]]
     name = "CV"
 #    url = "files/cv.pdf"
-     url = "files/CV_mashrur_2020.pdf"
-#    url = "static/media/CV_mashrur_2020.pdf"
+#     url = "files/CV_mashrur_2020.pdf"
+    url = "static/files/CV_mashrur_2020.pdf"
     weight = 70
