@@ -35,5 +35,6 @@
 #    url = "files/cv.pdf"
 #     url = "files/CV_mashrur_2020.pdf"
 #    url = "files/CV_mashrur_2020.pdf"
-     url = "https://github.com/mzm0152/starter-academic/raw/master/static/CV_mashrur_2020.pdf"
+#     url = "https://github.com/mzm0152/starter-academic/raw/master/static/CV_mashrur_2020.pdf"
+<a href="https://github.com/mzm0152/starter-academic/raw/master/static/CV_mashrur_2020.pdf">Download Receipt</a>
  weight = 70
