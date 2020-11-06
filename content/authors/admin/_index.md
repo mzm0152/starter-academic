@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics 
+  - course: PhD Candidate, in Economics 
     institution: University of Houston
     year: (expected 2023)
   - course: Master of Science, in Economics
