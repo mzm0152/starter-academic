@@ -77,7 +77,7 @@ highlight_name: false
 #- Visitors
 ---
 
-Abdullah Mashrur is a PhD candidate in Economics at the University of Houston. His research interests include development challenges of communities, incentive design, and mitigation of the negative effects of climate change. He makes use of natural and pseudo experiments.  
+I am a PhD candidate in Economics at the University of Houston. My research interests include development challenges of communities, incentive design, and mitigation of the negative effects of climate change. I make use of natural and pseudo experiments.  
 
 
 
