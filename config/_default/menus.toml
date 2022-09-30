@@ -34,7 +34,7 @@
     name = "CV"
 #    url = "files/cv.pdf"
 #     url = "files/CV_mashrur_2020.pdf"
-    url = "CV_mashrur_2020.pdf"
+    url = "Mashrur_CV.pdf"
 #     url = "https://github.com/mzm0152/starter-academic/raw/master/static/CV_mashrur_2020.pdf"
 
  weight = 70
