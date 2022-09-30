@@ -19,7 +19,7 @@ organizations:
 interests:
 - Development Economics
 - Labor Economics
-#- Climate Change
+
 
 education:
   courses:
