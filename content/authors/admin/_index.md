@@ -25,6 +25,7 @@ education:
   courses:
   - course: PhD Candidate, Economics 
 #    institution: (expected 2023)
+    institution: Economics
     institution: University of Houston
     year: (expected 2023)
   - course: Master of Science, Economics
