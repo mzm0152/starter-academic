@@ -23,21 +23,23 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate, Economics 
+  - course: PhD Candidate
+    subject: Economics 
 #    institution: (expected 2023)
-#    institution: Economics
     institution: University of Houston
     year: (expected 2023)
-  - course: Master of Science, 
-    Economics
+  - course: Master of Science 
+    subject: Economics
 #    institution: 2018
     institution: Auburn University
     year: 2018
-  - course: Master of Social Sciences, Economics
+  - course: Master of Social Sciences
+    subject: Economics
 #    institution: 2014
     institution: University of Dhaka
     year: 2014
-  - course: Bachelor of Social Sciences, Economics
+  - course: Bachelor of Social Sciences
+    subject: Economics
 #    institution: 2013
     institution: University of Dhaka
     year: 2013
