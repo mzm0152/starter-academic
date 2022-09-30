@@ -25,10 +25,11 @@ education:
   courses:
   - course: PhD Candidate, Economics 
 #    institution: (expected 2023)
-    institution: Economics
+#    institution: Economics
     institution: University of Houston
     year: (expected 2023)
-  - course: Master of Science, Economics
+  - course: Master of Science, 
+    Economics
 #    institution: 2018
     institution: Auburn University
     year: 2018
