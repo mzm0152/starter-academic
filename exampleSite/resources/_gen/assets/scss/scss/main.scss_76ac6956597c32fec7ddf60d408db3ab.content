@@ -8729,6 +8729,10 @@ ul.ul-edu li .description p.course {
 ul.ul-edu li .description p.institution {
   font-size: 0.75rem;
   color: rgba(0, 0, 0, 0.6); }
+  
+ul.ul-edu li .description p.subject {
+  font-size: 0.75rem;
+  color: rgba(0, 0, 0, 0.6); }
 
 /*************************************************
  * Experience
@@ -9185,6 +9189,9 @@ body.dark,
 .dark ul.ul-edu li .description p.institution {
   color: rgba(255, 255, 255, 0.6); }
 
+.dark ul.ul-edu li .description p.subject {
+  color: rgba(255, 255, 255, 0.6); }
+  
 .dark .pub-icon {
   color: rgba(255, 255, 255, 0.54); }
 
