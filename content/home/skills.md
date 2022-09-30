@@ -31,7 +31,7 @@ subtitle = ""
   icon = "futbol"
   icon_pack = "fas"
   name = "Soccer"
-  description = "10%"
+  description = "60%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
