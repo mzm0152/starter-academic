@@ -18,8 +18,8 @@ organizations:
 
 interests:
 - Development Economics
-- Behavioral Economics
-- Climate Change
+- Labor Economics
+#- Climate Change
 
 education:
   courses:
