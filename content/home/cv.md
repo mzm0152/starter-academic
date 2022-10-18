@@ -11,4 +11,4 @@ subtitle= ""
   view= 2
 +++
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Mashrur_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Here is my {{< staticref "Mashrur_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
