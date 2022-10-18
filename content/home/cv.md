@@ -1,9 +1,9 @@
 +++
-widget= blank
+widget= "blank"
 active= true
 headless= true
 weight= 30
-title= Curriculum vitae
+title= "Curriculum vitae"
 subtitle=
 
 [design]
