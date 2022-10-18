@@ -13,8 +13,7 @@ subtitle= ""
 
 #### Working Papers
 
-"Effect of anti-open grazing law in Ekiti state, Nigeria," 2021, Abdullah Mashrur
-
+"Effect of anti-open grazing law in Ekiti state, Nigeria," 2021, Abdullah Mashrur<br>
 {{< staticref "Mashrur_CV.pdf" "newtab" >}}PDF{{< /staticref >}}
 
 "Returns to graduating from elite universities and statistical discrimination: in the context of Economics PhD
