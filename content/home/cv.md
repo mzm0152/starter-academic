@@ -1,0 +1,1 @@
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Mashrur_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
