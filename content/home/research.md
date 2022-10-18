@@ -10,7 +10,7 @@ subtitle= ""
   columns= 2
   view= 2
 +++
-Working Papers
+####Working Papers
 
 "Effect of anti-open grazing law in Ekiti state, Nigeria," 2021, Abdullah Mashrur 
 {{< staticref "Mashrur_CV.pdf" "newtab" >}}PDF{{< /staticref >}}
@@ -21,7 +21,7 @@ academic job market," Abdullah Mashrur
 "An empirical study of school capital spending," 2020, Steven Craig, Sameer Malik, Ryan McGregor, Eva
 Loaeza, Bent Sorensen and Abdullah Mashrur
 
-Reasearch in Progress
+####Reasearch in Progress
 
 "Impacts of Deobandi movement on development of Indian districts," 2021, Abdullah Mashrur
 
