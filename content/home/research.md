@@ -1,5 +1,5 @@
 +++
-widget= "research"
+widget= ""
 active= true
 headless= true
 weight= 40
