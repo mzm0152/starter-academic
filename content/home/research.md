@@ -13,7 +13,7 @@ subtitle= ""
 
 #### Working Papers and Works in Progress
 Anti-open grazing laws: Evidence from Nigeria (Job Market Paper)<br>
-{{< staticref "Mashrur_CV.pdf" "newtab" >}}PDF{{< /staticref >}}
+{{< staticref "Anti_open_grazing_law___Ekiti.pdf" "newtab" >}}PDF{{< /staticref >}}
 
 Returns to graduating from elite universities and statistical discrimination in the Economics PhD academic
 job market
