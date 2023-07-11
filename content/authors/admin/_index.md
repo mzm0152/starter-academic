@@ -6,7 +6,7 @@ title: Abdullah Mashrur
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics
+role: Economics PhD Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ education:
     subject: Economics 
 #    institution: (expected 2023)
     institution: Economics, University of Houston
-    year: (expected 2023)
+    year: 2023
   - course: Master of Science 
     subject: Economics
 #    institution: 2018
@@ -81,7 +81,7 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a PhD candidate in Economics at the University of Houston. My research interests include mitigation of the negative effects of climate change, comparative development and discrimination.   
+I am an Economics PhD graduate at the University of Houston. My research interests include mitigation of the negative effects of climate change, comparative development and discrimination.   
 
 
 
